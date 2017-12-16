@@ -1,0 +1,9 @@
+*, html, body{
+  color: #333;
+}
+
+#top{
+  background-color:#8EC5E6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
